@@ -21,28 +21,6 @@ Technologies: MongoDB, Express, React, Node.js, Git
 - UX/UI
 - Web API integration
 
-## Work Experience
-
-### Web Developer | Freelance | Jul 2019 – Present
-#### eCommerce | Exeter, UK
-
-- Built and maintained a high-quality eCommerce website using WordPress and WooCommerce in a competitive niche
-- Implemented updates, backups, and software patches to ensure website security and optimal performance
-- Managed the company's CRM and organized digital marketing campaigns to provide a consistent revenue stream
-- Delivering accessible, fluid and responsive designs to UX/UI design specifications.
-
-Skills: Web Development, WordPress, WooCommerce, HTML, CSS, JavaScript
-
-### Section Commander | Royal Marines Commando | 2009 – Mar 2023
-#### Commando Duties | Exmouth, UK
-
-- Led and managed a team of highly skilled and trained individuals.
-- Provided direction and guidance to my team, motivating them to achieve our objectives
-- Met deadlines and ensured tasks were completed efficiently and effectively, often working under pressure and making quick decisions in challenging situations.
-- Provided coaching and mentoring to team members, adapting my teaching style to individual learners
-- Managed team welfare, including handling issues or concerns that arose
-
-Skills: Leadership, Team Management, Instruction, Problem-Solving, Adaptability
 
 ## Education and Certifications
 
@@ -53,7 +31,6 @@ Skills: Leadership, Team Management, Instruction, Problem-Solving, Adaptability
 - Understood crucial software algorithms and their application to web development
 - Created data-driven web applications
 
-Skills: Web Development, HTML, CSS, JavaScript, React, Node.js, Product Design, Algorithms, Data-Driven Web Applications
 Current Grade: 100%
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/chris-roberts-859281258/) to learn more about my skills and experience.
