@@ -7,8 +7,9 @@ I'm eager to learn from more experienced team members whilst incorporating my pr
 
 ## Technologies and Languages
 
-Languages: HTML, CSS, JavaScript
-Technologies: MongoDB, Express, React, Node.js, Git
+Languages: :html: HTML, :css: CSS, :javascript: JavaScript
+Technologies: :mongodb: MongoDB, :express: Express, :react: React, :nodejs: Node.js, :git: Git
+
 
 ## Skills
 
