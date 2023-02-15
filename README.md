@@ -1,5 +1,5 @@
-### Hi👋, 
-I'm Chris!
+### Hi, I'm Chris!👋 
+
 
 As a soon-to-be graduate of a full-stack web development bootcamp, I'm excited to add to my existing skills and continue towards a career change from the Royal Marines into the UK tech industry.
 
