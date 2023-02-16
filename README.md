@@ -8,20 +8,17 @@ I'm eager to learn from more experienced team members whilst incorporating my pr
 
 ## Languages
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="60" width="60" style="padding: 1rem;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="60" width="60" style="padding: 1rem;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" width="60" style="padding: 1rem;">
-</div>
+(https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg =60x60)
+(https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg =60x60)
+(https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg =60x60)
 
 ## Technologies
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="60" width="60" style="padding: 1rem;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="60" width="60" style="padding: 1rem;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" width="60" style="padding: 1rem;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" width="60" style="padding: 1rem;">
-</div>
+(https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg =60x60)
+(https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg =60x60)
+(https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg =60x60)
+(https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg =60x60)
+
 
 
 ## Skills
