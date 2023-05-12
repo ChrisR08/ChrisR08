@@ -1,7 +1,7 @@
 ### Hi, I'm Chris!👋 
 
 
-I have recently graduated from a full-stack web development bootcamp co-certified by Imperial College London in 1st out of 262! 
+I have recently graduated from a full-stack web development bootcamp co-certified by Imperial College London, finishing in 1st place out of 262 students with a task grade of 100%.
 
 I'm excited to add to my existing skills and continue towards a career change from the Royal Marines into the UK tech industry. I am currently learning PHP and the LAMP stack to add these essential skills to my web dev toolbox.
 
