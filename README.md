@@ -1,4 +1,4 @@
-### Hi, I'm Chris 👋
+### Hi, I'm Chris,
 
 After teaching myself to code whilst injured in the Royal Marines in 2018, I found a new purpose in tech. When the opportunity arose to attend a full-stack web development bootcamp, I eagerly applied — and in 2023, I graduated with a 100% grade, ranking 1st in a cohort of 262 students.
 
