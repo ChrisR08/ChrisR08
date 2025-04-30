@@ -1,53 +1,73 @@
-### Hi, I'm Chris, 
+### Hi, I'm Chris 👋
 
+After teaching myself to code whilst injured in the Royal Marines in 2018, I found a new purpose in tech. When the opportunity arose to attend a full-stack web development bootcamp, I eagerly applied — and in 2023, I graduated with a 100% grade, ranking 1st in a cohort of 262 students.
 
-After teaching myself to code whilst injured in the Royal Marines in 2018, when the opportunity arose to attend a full-stack web development bootcamp, I eagerly applied.
+Now, I'm bringing my leadership, adaptability, and instructional experience from 13 years in the Royal Marines into the UK tech industry. With six years of hands-on web development experience — including two at agency level — I specialise in HTML, CSS, JavaScript, React, and PHP.
 
-Having completed the course in 2023, I am bringing my strong leadership, management, and instructional skills to the UK tech industry, honed through my 13 years of service in the Royal Marines. 
+In my previous military role, I delivered mission-critical intelligence under pressure, solved problems in high-stakes environments, and mentored others to achieve their best. I now apply those same principles to building intuitive, accessible, and high-performing digital solutions.
 
-With six years of experience building and maintaining websites, including two years at an agency, I have experience with HTML, CSS, JavaScript, React and PHP.
+I'm passionate about creating user-first experiences and committed to staying current with emerging technologies and best practices. I'm also eager to learn from more experienced team members as I continue my growth as a full-stack web and software developer.
 
-In my previous role, I was highly skilled at problem-solving, delivering mission-critical intelligence to a deadline and adapting to new challenges.
-I am eager to incorporate these skills into a new career as a web developer. 
+---
 
-I am passionate about creating intuitive, user-friendly and accessible online experiences and am committed to staying current with emerging technologies and best practices. 
+## 📁 Projects
 
-I'm eager to learn from more experienced team members while incorporating my problem-solving skills, determination, and adaptability into my new career as a full-stack web and software developer.
+### 🕹️ [React Hangman Game](https://github.com/ChrisR08/React-Hangman-Game)
+A simple word guessing game built with React. This project demonstrates component-based architecture, conditional rendering, and basic game state logic.
 
+- Built with React and JavaScript
+- Handles win/loss logic and keyboard interaction
+- Uses clean component structure and minimal styling
 
-## Technologies and Languages
+---
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="20" width="20" /> HTML, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="20" width="20" /> CSS, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20" width="20" /> JavaScript
+### 🍱 [Responsive HTML/CSS/JS Website](https://github.com/ChrisR08/Task-42-44__finalCapstone)
+A complete front-end site built from scratch with vanilla HTML, CSS, and JavaScript. Includes key interactive features using `localStorage`.
 
+- “Save for Later”, “Like”, and “Comment” functionality
+- Responsive layout and modular design
+- Focused on accessibility and performance
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="20" width="20" /> MongoDB, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="20" width="20" /> Express, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="20" width="20" /> React, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="20" width="20" /> Node.js
+---
 
+## 🛠 Technologies & Languages
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="20" width="20" /> HTML  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="20" width="20" /> CSS  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20" width="20" /> JavaScript  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="20" width="20" /> React  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="20" width="20" /> Node.js  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="20" width="20" /> Express  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="20" width="20" /> MongoDB  
 
-## Skills
+---
 
-- HTML, CSS & JS
-- Software development in JavaScript
+## 🚀 Skills
+
+- HTML, CSS & JavaScript
+- Object-oriented and functional programming
 - WordPress theme development
-- Object-oriented programming
-- Functional programming
-- Single-page application development with React
-- Frontend web development
-- UX/UI
-- Web API integration
+- Single-page application development (React)
+- Front-end development & responsive design
+- UX/UI best practices
+- API integration & RESTful services
+- Debugging, testing, and code optimisation
 
+---
 
-## Education and Certifications
+## 🎓 Education & Certifications
 
-### Full Stack Web Development Bootcamp | HyperionDev | Dec 2022 – Mar 2023
+### Full Stack Web Development Bootcamp  
+**HyperionDev | Dec 2022 – Mar 2023**
 
-- Developed dynamic web applications using HTML, CSS, JavaScript, React, and Node.js
-- Applied product design principles to web development projects
-- Understood crucial software algorithms and their application to web development
-- Created data-driven web applications
+- Built dynamic web applications using HTML, CSS, JavaScript, React, and Node.js
+- Applied product design principles to real-world dev projects
+- Implemented key algorithms and data-driven web solutions
 
-Ranked 1/262 students
-Grade: 100%
+**Ranked 1st out of 262 students**  
+**Grade: 100%**
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/chris-roberts-859281258/) to learn more about my skills and experience.
+---
 
+📫 **Connect with me on [LinkedIn](https://www.linkedin.com/in/chris-roberts-859281258/)**  
+I’m open to collaborations, feedback, and new opportunities in web and software development.
