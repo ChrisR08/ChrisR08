@@ -1,11 +1,18 @@
 ### Hi, I'm Chris!👋 
 
 
-I have recently graduated from a full-stack web development bootcamp co-certified by Imperial College London, finishing in 1st place out of 262 students with a task grade of 100%.
+After teaching myself to code whilst injured in the Royal Marines in 2018, when the opportunity arose to attend a full-stack web development bootcamp, I eagerly applied.
 
-I'm excited to add to my existing skills and continue towards a career change from the Royal Marines into the UK tech industry. I am currently learning PHP and the LAMP stack to add these essential skills to my web dev toolbox.
+Having completed the course in 2023, I am bringing my strong leadership, management, and instructional skills to the UK tech industry, honed through my 13 years of service in the Royal Marines. 
 
-I'm eager to learn from more experienced team members whilst incorporating my problem-solving skills, determination, and adaptability into my new career as a full-stack web and software developer.
+With six years of experience building and maintaining websites, including two years at an agency, I have experience with HTML, CSS, JavaScript, React and PHP.
+
+In my previous role, I was highly skilled at problem-solving, delivering mission-critical intelligence to a deadline and adapting to new challenges.
+I am eager to incorporate these skills into a new career as a web developer. 
+
+I am passionate about creating intuitive, user-friendly and accessible online experiences and am committed to staying current with emerging technologies and best practices. 
+
+I'm eager to learn from more experienced team members while incorporating my problem-solving skills, determination, and adaptability into my new career as a full-stack web and software developer.
 
 
 ## Technologies and Languages
@@ -21,7 +28,7 @@ I'm eager to learn from more experienced team members whilst incorporating my pr
 
 - HTML, CSS & JS
 - Software development in JavaScript
-- WordPress, Oxygen, Bricks & Woocommerce experience
+- WordPress theme development
 - Object-oriented programming
 - Functional programming
 - Single-page application development with React
