@@ -1,4 +1,4 @@
-### Hi, I'm Chris!👋 
+### Hi, I'm Chris, 
 
 
 After teaching myself to code whilst injured in the Royal Marines in 2018, when the opportunity arose to attend a full-stack web development bootcamp, I eagerly applied.
