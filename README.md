@@ -61,6 +61,14 @@ A simple word guessing game built with React. This project demonstrates componen
 
 ## Education & Certifications
 
+### Joy of React – Advanced React Course
+**Josh W. Comeau | 2025**
+
+- Deep dive into advanced React concepts including hooks, context, transitions, suspense, accessibility, and performance  
+- Built a series of hands-on, real-world projects to apply concepts  
+
+👉 [View Certificate](https://joyofreact.com/certificate/ChrisR08)
+
 ### Full Stack Web Development Bootcamp  
 **HyperionDev | Dec 2022 – Mar 2023**
 
