@@ -14,7 +14,7 @@ I'm passionate about crafting intuitive, user-first digital experiences and am c
 
 ## Projects
 
-### 🕹[React Game App](https://github.com/ChrisR08/react-game-app)
+### [React Game App](https://github.com/ChrisR08/react-game-app)
 A fully featured game discovery app built with React and TypeScript, integrating Chakra UI, Zustand, and React Query.
 
 - Browse and filter thousands of games via the RAWG API
@@ -52,11 +52,10 @@ A simple word guessing game built with React. This project demonstrates componen
 - HTML, CSS & JavaScript
 - Object-oriented and functional programming
 - WordPress theme development
-- Single-page application development (React)
+- Application development (React)
 - Front-end development & responsive design
 - UX/UI best practices
 - API integration & RESTful services
-- Debugging, testing, and code optimisation
 
 ---
 
